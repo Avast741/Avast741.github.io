@@ -1,51 +1,8 @@
 ---
-title: "Edge Case: Many Tags"
+title: "Tips and Trick"
 categories:
-  - Edge Case
+  - Tips and Trick
 tags:
-  - 8BIT
-  - alignment
-  - Articles
-  - captions
-  - categories
-  - chat
-  - comments
-  - content
-  - css
-  - dowork
-  - edge case
-  - embeds
-  - excerpt
-  - Fail
-  - featured image
-  - FTW
-  - Fun
-  - gallery
-  - html
-  - image
-  - Jekyll
-  - layout
-  - link
-  - Love
-  - markup
-  - Mothership
-  - Must Read
-  - Nailed It
-  - Pictures
-  - Post Formats
-  - quote
-  - standard
-  - Success
-  - Swagger
-  - Tags
-  - template
-  - title
-  - twitter
-  - Unseen
-  - video
-  - YouTube
-  - U:R:COOL
-  - C#
+  - tugas
 ---
-
-This post has many tags.
+Tips & Trick dalam menjalankan matkul proyek ini adalah jangan terus meratapi bahwa kelompok yang kita dapat tidak sejalan dengan apa yang kita inginkan. Selai itu, kita juga harus konsisten atas tugas yang kita dapat supaya tidak memberatkan anggota kelompok lain yang harus menunggu hasil kerjamu.
